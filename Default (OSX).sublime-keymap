@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+s"], "command": "titanium_hotkey_open_tss" },
+	{ "keys": ["super+shift+v"], "command": "titanium_hotkey_open_xml" },
+	{ "keys": ["super+shift+c"], "command": "titanium_hotkey_open_js" } 
+]
